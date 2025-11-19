@@ -1,66 +1,29 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+## Imagem funcionamento
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+<img width="1855" height="883" alt="Captura de tela 2025-11-19 175458" src="https://github.com/user-attachments/assets/87a4d47d-3e92-4f6f-ae68-463b950c3445" />
 
-## About Laravel
+<img width="1855" height="804" alt="Captura de tela 2025-11-19 175517" src="https://github.com/user-attachments/assets/e030e486-d6f2-40c5-a801-b949a1cfe56b" />
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+<img width="1090" height="533" alt="Captura de tela 2025-11-19 175618" src="https://github.com/user-attachments/assets/ce9943e7-f3cb-41a5-997f-dc3ee3d0fee9" />
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+<img width="1055" height="703" alt="Captura de tela 2025-11-19 175624" src="https://github.com/user-attachments/assets/d47c95ad-e77f-49b9-a479-0c281b7178c5" />
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+<img width="1037" height="481" alt="Captura de tela 2025-11-19 175631" src="https://github.com/user-attachments/assets/95c64a99-8863-4226-9ed6-a6d92505c0d4" />
 
-## Learning Laravel
+<img width="1020" height="679" alt="Captura de tela 2025-11-19 175725" src="https://github.com/user-attachments/assets/f70292ce-9af6-4914-a7e8-a665398125bd" />
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+<img width="1118" height="723" alt="Captura de tela 2025-11-19 175739" src="https://github.com/user-attachments/assets/0ab16808-15c8-40b3-93b5-80c05454faab" />
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+<img width="1017" height="612" alt="Captura de tela 2025-11-19 175745" src="https://github.com/user-attachments/assets/61b2f5cd-eab3-465e-9d6d-a7606008e15e" />
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+## Banco de dados
 
-## Laravel Sponsors
+<img width="1874" height="689" alt="image" src="https://github.com/user-attachments/assets/8520bed2-1854-4819-b030-7a64e09395e5" />
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+<img width="1871" height="802" alt="Captura de tela 2025-11-19 182354" src="https://github.com/user-attachments/assets/1b15c001-0adc-43d3-8079-be09748cf8c0" />
 
-### Premium Partners
+## Middleware
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
+<img width="572" height="407" alt="Captura de tela 2025-11-19 182624" src="https://github.com/user-attachments/assets/5b020e96-699d-4679-817b-f254a6520260" />
 
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+<img width="728" height="351" alt="Captura de tela 2025-11-19 182649" src="https://github.com/user-attachments/assets/f9502394-5d8b-412c-9e83-8e3d9d5fecb3" />
